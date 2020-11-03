@@ -8,9 +8,8 @@
 
 В результате тестирования выявлены следующие дефекты:
 
-* Валидный ключ отмечен как невалидный https://github.com/MariyaGrishkova/Validator/issues/1#issue-729045875
-* Валидный ключ отмечен как невалидный https://github.com/MariyaGrishkova/Validator/issues/2#issue-729047476
-* Невалидный ключ отмечен как валидный https://github.com/MariyaGrishkova/Validator/issues/3#issue-729048700
+* [Валидные ключи отмечены как невалидные] (https://github.com/MariyaGrishkova/Validator/issues/1#issue-729045875)
+* [Невалидный ключ отмечен как валидный] (https://github.com/MariyaGrishkova/Validator/issues/3#issue-729048700)
 
 ## Описание процесса тестирования
 
